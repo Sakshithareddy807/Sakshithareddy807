@@ -13,7 +13,9 @@ Programming Languages: C++,PYTHON,JAVA. Tools & Technologies: Tensorflow,reactjs
 🎯 Goals: Build innovative, user-focused solutions. Collaborate with developers worldwide. Level up daily with new challenges.
 
 projects:
-Next word prediction using NLP Image Classification using keras Image Recognization system using Deep Learning## Hi there 👋
+Next word prediction using NLP
+Image Classification using keras 
+Image Recognization system using Deep Learning
 
 <!--
 **Sakshithareddy807/Sakshithareddy807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
